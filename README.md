@@ -1,6 +1,6 @@
 ## Scikit-Learn Regression Tutorial
 
-See Jupyter Notebook for Details
+See notebook for details.
 
 # Watch the Video
 
